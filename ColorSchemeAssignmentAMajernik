@@ -1,0 +1,35 @@
+<style>
+    table, th, tr, td {
+        border: 2px solid black;
+    }
+</style>
+<table>
+    <tr>
+        <th colspan="4" style="font-family: 'Courier New', monospace;"> Fall Day Color Scheme
+        </th>
+    </tr>
+    <tr>
+        <td style="background-color:rgb(220,30, 20);">Crisp Apple</td>
+        <td style="background-color:rgb(235,175, 70);">Falling Leaves</td>
+        <td style="background-color:rgb(220,200, 190);">Cold Wind</td>
+        <td style="background-color:rgb(80,60, 30); color:rgb(220,200,190);">Black Water</td>
+    </tr>
+    <tr>
+        <td>#e03314</td>
+        <td>#ebaf46</td>
+        <td>#dcc8be</td>
+        <td>#503c1e</td>
+    </tr>
+    <tr>
+        <td>(220, 30, 20)</td>
+        <td>(235, 175, 70)</td>
+        <td>(220, 200, 190)</td>
+        <td>(80,60, 30)</td>
+    </tr>
+    <tr>
+        <td>(9°, 83%, 48%)</td>
+        <td>(38°, 80%, 60%)</td>
+        <td>(20°, 30%, 80%)</td>
+        <td>(36°, 45%, 22%)</td>
+    </tr>
+</table>
